@@ -1,0 +1,2 @@
+# Kalkulator
+Project JavaScript Kalkulator
