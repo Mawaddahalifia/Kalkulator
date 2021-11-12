@@ -1,2 +1,2 @@
 # Kalkulator
-Project JavaScript Kalkulator
+Project Progate JavaScript Kalkulator
